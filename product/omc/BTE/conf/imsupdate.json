@@ -1,0 +1,13 @@
+{
+  "update_version": 1,
+  "note": "enable use_pem_header",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "EE for IMS UK",
+        "mnoname": "EE_GB",
+        "use_pem_header": true
+      }
+    ]
+  }
+}

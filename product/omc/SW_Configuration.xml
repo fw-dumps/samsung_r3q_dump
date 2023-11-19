@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A908B</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OBE</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A908BOBE</CSCName>
+        <CSCVersion>9EWF1</CSCVersion>
+        <NbCustomer>3</NbCustomer>
+        <CustomerData src="/Customer/BTB/customer.xml" />
+        <CustomerData src="/Customer/BTE/customer.xml" />
+        <CustomerData src="/Customer/EVR/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>BTB</CustomerCode>
+            <Version>SAOMC_SM-A908B_OBE_BTB_12_0005</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BTE</CustomerCode>
+            <Version>SAOMC_SM-A908B_OBE_BTE_12_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>EVR</CustomerCode>
+            <Version>SAOMC_SM-A908B_OBE_EVR_12_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.bt.btsport" />
+                <package name="uk.co.ee.myee" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A908B_OBE_BTE_12_0003</version>
+  <model>
+    <name>SM-A908B</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0003</customerEdition>
+    <carrierListVersion>120018</carrierListVersion>
+    <cscfeature>yes</cscfeature>
+    <carrierfeature>yes</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>yes</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>1</carrierCount>
+    <carrier>
+      <mcc>234</mcc>
+      <mnc>30</mnc>
+      <codeType>HEX</codeType>
+      <gid>C3</gid>
+      <networkName>BT</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

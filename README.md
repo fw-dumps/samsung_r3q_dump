@@ -1,0 +1,19 @@
+## r3qxx-user 12 SP1A.210812.016 A908BXXU9EWF1 release-keys
+- Manufacturer: samsung
+- Platform: msmnile
+- Codename: r3q
+- Brand: samsung
+- Flavor: r3qxx-user
+- Release Version: 12
+- Kernel Version: 4.14.190
+- Id: SP1A.210812.016
+- Incremental: A908BXXU9EWF1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/r3qxx/r3q:11/RP1A.200720.012/A908BXXU9EWF1:user/release-keys
+- OTA version: 
+- Branch: r3qxx-user-12-SP1A.210812.016-A908BXXU9EWF1-release-keys
+- Repo: samsung_r3q_dump

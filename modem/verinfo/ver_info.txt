@@ -1,0 +1,27 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.0.c1-00046-SM8150-1", 
+        "aop": "AOP.HO.1.1-00230-SM8150AAAAANAZO-1", 
+        "apps": "LA.UM.8.1.r1-08700-sm8150.0-1", 
+        "boot": "BOOT.XF.3.0-00468-SM8150LZB-1", 
+        "btfm": "BTFM.CHE.2.1.4-00523-QCACHROMZ-1", 
+        "cdsp": "CDSP.HT.2.0-00705-SM8150-1", 
+        "common": "SM8150_SDX50M.LA_TN.1-5-2_2-2-00105-STD.PROD-1", 
+        "glue": "GLUE.SM8150_LA_SDX50M_TN.1-5_2-0-00117-NOOP_TEST-1", 
+        "modem": "MPSS.HE.1.5.2-00240-SM8150_GENFUSION_PACK-1", 
+        "npu": "NPU.FW.1.0-00044-SM8150-1", 
+        "slpi": "SLPI.HY.2.1-00085-SM8150AZL-1.264217.1", 
+        "slpi_spu": "SLPI.HY.2.1-00039-SM8150AZL-1.184101.1.189579.1", 
+        "spss": "SPSS.A1.1.2-00085-SM8150AAAAANAZS-1", 
+        "tz": "TZ.XF.5.2.2-00055-SM8150AAAAANAZT-1.211796.3.442330.4", 
+        "video": "VIDEO.IR.1.0-00069-PROD-1", 
+        "wdsp": "WDSP.9340.2.0-00039-W9340AAAAAAAZQ-1", 
+        "wlan": "WLAN.HL.3.0-02043-QCAHLSWMTPLZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM8150_SDX50M.LA_TN.1-5-2_2-2-00105-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2023-06-14 20:37:46"
+    }, 
+    "Version": "1.0"
+}
